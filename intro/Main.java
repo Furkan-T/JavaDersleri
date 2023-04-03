@@ -3,17 +3,19 @@ package intro;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-
+        //string
         String ortaMetin = "İlginizi Çekebilir";
         String AltMetin = "Vade Süresi";
 
         System.out.println(ortaMetin);
 
+
+        //integer
         int vade = 12;
 
         double dolarDun = 18.35;
         double dolarBugun = 18.30;
-
+        //bool
         boolean dolarDustuMu = true;
 
         String okYonu = "";
