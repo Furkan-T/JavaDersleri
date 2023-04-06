@@ -1,4 +1,4 @@
-package youtubeDersleri;
+package youtubeDersleri127;
 
 public class sayiBulma {
     public static void main(String[] args) {

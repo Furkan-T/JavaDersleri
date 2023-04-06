@@ -1,4 +1,4 @@
-package youtubeDersleri;
+package youtubeDersleri127;
 
 public class arraysDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package youtubeDersleri;
+package youtubeDersleri127;
 
 public class multiDimensionalArrayDemo {
     public static void main(String[] args) {
