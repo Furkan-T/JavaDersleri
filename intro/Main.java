@@ -7,16 +7,20 @@ public class Main {
         String ortaMetin = "İlginizi Çekebilir";
         String AltMetin = "Vade Süresi";
 
-        System.out.println(ortaMetin);
+        System.out.println(ortaMetin + AltMetin);
 
 
         //integer
         int vade = 12;
 
+        System.out.println(vade);
+
         double dolarDun = 18.35;
         double dolarBugun = 18.30;
         //bool
         boolean dolarDustuMu = true;
+
+        System.out.println(dolarDustuMu);
 
         String okYonu = "";
 
