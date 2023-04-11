@@ -1,10 +1,5 @@
 package oopWithNLayeredApp.business;
 
-import java.lang.System.Logger;
-import java.util.List;
-
-import oopWithNLayeredApp.dataAccess.HibernateProductDao;
-import oopWithNLayeredApp.dataAccess.JdbcProductDao;
 import oopWithNLayeredApp.dataAccess.ProductDao;
 import oopWithNLayeredApp.entities.Product;
 
