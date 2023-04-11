@@ -2,7 +2,7 @@ package youtubeDersleri2437.classesWithAttributes;
 
 public class Main {
     public static void main(String[] args) {
-        Product product = new Product(1,"Laptop", "Asus laptop", 5000, 3,"Mavi");
+        Product product = new Product(1,"Laptop", "Asus laptop", 5000, 3,"Mavi","L1");
         Product product1 = new Product();
 
 
@@ -14,8 +14,6 @@ public class Main {
         product1.setDescription("Lenovo Laptop");
         product1.setStockAmount(3);
         product1.setRenk("Siyah");
-
-        product1.getKod();
 
         ProductManager productManager = new ProductManager();
         productManager.Add(product);

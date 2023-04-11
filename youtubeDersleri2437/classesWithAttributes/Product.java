@@ -2,7 +2,7 @@ package youtubeDersleri2437.classesWithAttributes;
 
 public class Product {
 
-    public Product(int id, String name, String description, double price, int stockAmount, String renk){
+    public Product(int id, String name, String description, double price, int stockAmount, String renk, String kod){
         System.out.println("Yapıcı Blok Calıstı");
         this.id = id;
         this.kod = kod;
